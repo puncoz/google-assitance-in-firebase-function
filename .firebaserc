@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "chatsansar-ae220"
+    "default": "chatsansar-ae220",
+    "staging": "chatsansar-ae220"
   }
 }
